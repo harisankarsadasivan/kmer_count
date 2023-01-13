@@ -1,5 +1,5 @@
 # kmer_count
-prints top n kmers (sorted) and kmer frequency from piped in input
+prints top n kmers (sorted) and kmer frequency from piped in input.
 Uses modern C++17 features.
 
 
